@@ -2,6 +2,6 @@
 
 **Computer Science student** @ ITMO
 
-![Languages](https://img.shields.io/static/v1?logo=&label=&message=Languages:&color=36465D&logoColor=FFF&style=flat-square&link=)
+![Languages]()
 
  ![Banks] - создание банков, счетов, контроля денежных средств, системы переводов и начисления процентов
