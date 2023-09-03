@@ -16,4 +16,5 @@
 - RabbitMQ
 - Gradle
 - Swagger
+- Lombok
    
